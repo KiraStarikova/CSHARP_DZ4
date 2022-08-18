@@ -6,4 +6,4 @@ void Power(int a, int b)
     int result =Convert.ToInt32(Math.Pow(a, b));
     Console.WriteLine($"Число {a} в степени {b} равняется {result}");
 }
-Power(5, 8);
+Power(9, 7);
